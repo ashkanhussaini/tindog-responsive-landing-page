@@ -54,7 +54,7 @@ No build step is required.
 
 ## Live Demo
 
-Not deployed yet.
+https://ashkanhussaini.github.io/tindog-responsive-landing-page
 
 ## Credits
 
